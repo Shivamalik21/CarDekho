@@ -35,3 +35,25 @@ news:https://shivamalik21.github.io/CarDekho/news.html
 ![faq](https://github.com/Shivamalik21/CarDekho/assets/117883959/591a833c-e2fd-41dd-bc8d-bf282c31e503)
 ![footer](https://github.com/Shivamalik21/CarDekho/assets/117883959/747b390f-2524-4d35-9243-06abd4ae3479)   <br>
 
+
+
+# DISCRIPTION:
+we made a  demo of (car_dekho) website . we design five pages (Homepage,emi,challan,and news related to car).
+<br>
+
+we design header and footer same for all pages. for hompage we made different type of tag  each tage we game some hover property like change in color.<br>
+ in other pages we gave hover property like scroll div and image and increase and decrease size of button,<br>
+ we made over website responsiveat 600 max-width,<br> flex property also used in making of pages.
+ some icon also used during making like arrow ,search, <br>
+ in hompage we uesd tranform property in which we move image 60' to y axies.<br>
+ for responsive we used different footer and header .
+ we gave header a sticky postion property due to this property header show's during scroll pages to y-axis,<br>
+ we connect all the pages by using anchor tag.<br>
+ for link icon we gave the link in header . <br>
+ # some responsive design:
+ ![11](https://github.com/Shivamalik21/CarDekho/assets/129033663/07d1384f-0155-404a-b508-c863574f31e8)
+![12](https://github.com/Shivamalik21/CarDekho/assets/129033663/bf3382b5-2c23-499b-8093-13b265242162)
+![14](https://github.com/Shivamalik21/CarDekho/assets/129033663/09f7c407-1fc0-4f7e-af39-30b0b1dadebd)
+![13](https://github.com/Shivamalik21/CarDekho/assets/129033663/cba8e76a-4518-4945-bf0a-cac8a9c53e28)
+
+
