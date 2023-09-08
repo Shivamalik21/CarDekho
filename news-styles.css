@@ -358,7 +358,7 @@ padding: 1vw 4vw;
    box-shadow: 0 3px 3px rgba(36,39,44,.15);
       scrollbar-color:blue;
       
-
+  margin-bottom:5vh;
   }
   .section2 ul{
       gap:5vw;
@@ -679,6 +679,19 @@ list-style: none;
   width: 50%;
   
 }
+  .section0 ul{
+  overflow-x: scroll;
+}
+.section0 ul::-webkit-scrollbar{
+  display: none;
+}
+.sec9 input{
+    margin-left: 10vw;
+}
+  .section2 hr{
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+  }
   
 
 
