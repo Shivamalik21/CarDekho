@@ -273,6 +273,7 @@ input[type=range]{
     padding-top: 50px;
     width: 75%;
     padding-right: 100px;
+    padding-left: 20px;
     position: relative;
     /* left: 25%; */
     top: 120px;
