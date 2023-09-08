@@ -35,6 +35,17 @@ news:https://shivamalik21.github.io/CarDekho/news.html
 ![faq](https://github.com/Shivamalik21/CarDekho/assets/117883959/591a833c-e2fd-41dd-bc8d-bf282c31e503)
 ![footer](https://github.com/Shivamalik21/CarDekho/assets/117883959/747b390f-2524-4d35-9243-06abd4ae3479)   <br>
 
+
+#CAR CHALLAN
+
+![Screenshot (195)](https://github.com/Shivamalik21/CarDekho/assets/84630014/4656074c-7aa1-47e4-92a1-677b19e36914)
+![Screenshot (196)](https://github.com/Shivamalik21/CarDekho/assets/84630014/3e430495-f2ac-4473-b52d-70c13031ea5b)
+![Screenshot (197)](https://github.com/Shivamalik21/CarDekho/assets/84630014/59845502-c49a-4f83-b685-dd2662e4243b)
+![Screenshot (198)](https://github.com/Shivamalik21/CarDekho/assets/84630014/3155b3d8-a528-47f0-81d6-42ec2a623a22)
+![Screenshot (199)](https://github.com/Shivamalik21/CarDekho/assets/84630014/8b11e1ec-8bfc-42fa-a6c7-d87469692dce)
+![Screenshot (200)](https://github.com/Shivamalik21/CarDekho/assets/84630014/9a52c060-339c-4e43-a2d8-eec9cc148317)
+
+
 # EMI
 # carDekho
 Hosted Link:
