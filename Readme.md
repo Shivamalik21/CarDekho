@@ -38,18 +38,30 @@ news:https://shivamalik21.github.io/CarDekho/news.html
 
 
 # DISCRIPTION:
-we made a  demo of (car_dekho) website . we design five pages (Homepage,emi,challan,and news related to car).
+We made a  demo of (car_dekho) website . we designed five pages (Homepage,emi,challan,and news related to car).
 <br>
+Mostly pages were made by using semantic tags like main, navbar, header, footer, sidebar etc <br>
+Html tags commonly used were- Head, body, h1,h2,h3, div, p, section, footer, img, anchor tag, span, input, button, select, option, strong, form, table, td, tr, label etc. <br>
+CSS properties like, width, height, flex display, background color, font-family, font-size, font weight, letter-spacing, color etc. were extensively used. <br>
+Links were used for material symbols, material icons, fonts and font-awesome <br>
+ We applied common header and footer for all pages. <br>
+ In other pages we gave hover property like scroll div and image and increase and decrease size of button,<br>
+ We made over website responsive at 600 max-width, flex property also used in making of pages. <br>
+ Some icon also used during making like arrow ,search, <br>
+ In hompage we used tranform property in which we move image 60' to y axis.<br>
+ For responsiveness we used different footer and header .
+ We gave header a sticky postion property due to this property header show's during scroll pages to y-axis,<br>
+ We connect all the pages by using anchor tag.<br>
+ For link icon we gave the link in header . <br>
 
-we design header and footer same for all pages. for hompage we made different type of tag  each tage we game some hover property like change in color.<br>
- in other pages we gave hover property like scroll div and image and increase and decrease size of button,<br>
- we made over website responsiveat 600 max-width,<br> flex property also used in making of pages.
- some icon also used during making like arrow ,search, <br>
- in hompage we uesd tranform property in which we move image 60' to y axies.<br>
- for responsive we used different footer and header .
- we gave header a sticky postion property due to this property header show's during scroll pages to y-axis,<br>
- we connect all the pages by using anchor tag.<br>
- for link icon we gave the link in header . <br>
+
+ CHALLENGES FACED-
+ 1. Combining of pages on github <br>
+ 2. UI malfunctioning after cloning of code from other members of the team <br>
+ 3. Material icons and symbols weren't visible in cloned file. <br>
+ 4. Trying to implement common code made by other team members <br>
+ 5. Positioning of elements in sticky, fixed positions <br>
+ 6. Making of pages responsive <br>
  # some responsive design:
  ![11](https://github.com/Shivamalik21/CarDekho/assets/129033663/07d1384f-0155-404a-b508-c863574f31e8)
 ![12](https://github.com/Shivamalik21/CarDekho/assets/129033663/bf3382b5-2c23-499b-8093-13b265242162)
